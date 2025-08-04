@@ -1,4 +1,4 @@
-<div style="background-color:#f8faff; padding:25px; border-radius:12px;">
+<div style="background-color:#FFF8E7; padding:25px; border-radius:12px;">
 
 <h1 align="center">Hi 👋, I'm Om Singh</h1>
 <h3 align="center">Final year B.Tech. student at Indian Institute of Information Technology, Ranchi (IIITR)</h3>
