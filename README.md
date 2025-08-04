@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Singh, a final year student, pursuing Bachelors of Technology (B.Tech.), from Indian Institute of Information Technology, Ranchi (IIITR)</h1>
 <h3 align="center">A passionate Data Scientist and Competitive Programmer</h3>
 
-- 📫 How to reach me **om.2022ug2073@iiitranchi.ac.in**
+- 📫 How to reach me **omsingh292004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
