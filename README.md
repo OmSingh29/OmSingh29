@@ -1,4 +1,6 @@
-<div style="background-color:#FFF8E7; padding:25px; border-radius:12px;">
+<table>
+<tr>
+<td style="background-color:#FFF8E7; padding:25px; border-radius:12px;">
 
 <h1 align="center">Hi 👋, I'm Om Singh</h1>
 <h3 align="center">Final year B.Tech. student at Indian Institute of Information Technology, Ranchi (IIITR)</h3>
@@ -37,4 +39,6 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a> 
 </p>
 
-</div>
+</td>
+</tr>
+</table>
